@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.AssemblyInfo.cs
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.exe
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.deps.json
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.runtimeconfig.json
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.dll
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.pdb
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.dll
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\refint\ConsoleRPG.dll
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.pdb
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.genruntimeconfig.cache
+C:\Users\User\Desktop\KYM\ConsoleRPG\ConsoleRPG\obj\Debug\net6.0\ref\ConsoleRPG.dll
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.exe
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.deps.json
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.runtimeconfig.json
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.dll
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.pdb
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.csproj.AssemblyReference.cache
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.AssemblyInfo.cs
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.dll
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\refint\ConsoleRPG.dll
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.pdb
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.genruntimeconfig.cache
+C:\Users\gftr9\Downloads\ConsoleRPG(상점 미구현)\ConsoleRPG\obj\Debug\net6.0\ref\ConsoleRPG.dll
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.exe
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.deps.json
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.runtimeconfig.json
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.dll
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\bin\Debug\net6.0\ConsoleRPG.pdb
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.AssemblyInfo.cs
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.dll
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\refint\ConsoleRPG.dll
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.pdb
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ConsoleRPG.genruntimeconfig.cache
+C:\Users\User\Desktop\ConsoleRPG_Ver_1\ConsoleRPG\obj\Debug\net6.0\ref\ConsoleRPG.dll
